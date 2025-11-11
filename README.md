@@ -1,16 +1,92 @@
-## ola 👋
+# 👨🏻‍💻 nycolle kimberlyn
 
-<!--
-**nycollekimberlyn/nycollekimberlyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Estudante de Engenharia de Software`**
 
-Here are some ideas to get you started:
+Olá! Me chamo **nycolle kimberlyn **, sou estudante de **Analise e desemvolvimento de sistemas ** e estou sempre em busca de aprender mais sobre tecnologia e desenvolvimento. Tenho grande interesse em entender como as coisas funcionam por trás dos sistemas e em criar soluções que facilitem o dia a dia das pessoas.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Atualmente, estou me aprofundando nas bases da programação e aprendendo a aplicar conceitos de **lógica, estrutura de dados e algoritmos**. Gosto de estudar e praticar com pequenos projetos para colocar em prática o que aprendo na faculdade.
+
+---
+
+### 💻 Linguagens e Tecnologias
+
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="CSS" 
+    title="CSS"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="C++" 
+    title="C++"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
+/>
+
+<br/>
+<br/>
+
+---
+
+### 📊 Estatísticas
+
+<p>
+  <img 
+    align="left" 
+    alt="GitHub Stats" 
+    height="200" 
+    style="padding-right: 10px;" 
+    src="https://github-readme-stats.vercel.app/api?username=Punafds&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+  />
+
+  <img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Punafds&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+  />
+</p>
+
+---
+
+
+
+### 📘 Sobre Mim
+
+Sou uma pessoa curiosa e gosto de aprender na prática — sempre procuro entender o porquê das coisas funcionarem do jeito que são. Tenho interesse em seguir carreira na área de desenvolvimento de software e, no momento, estou focado em consolidar minhas bases na programação e boas práticas de código.
