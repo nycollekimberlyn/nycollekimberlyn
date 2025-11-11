@@ -1,8 +1,8 @@
 # 👨🏻‍💻 nycolle kimberlyn
 
-**`Estudante de Engenharia de Software`**
+**`Estudante de Analise e desemvolvimento de sistemas`**
 
-Olá! Me chamo **nycolle kimberlyn **, sou estudante de **Analise e desemvolvimento de sistemas ** e estou sempre em busca de aprender mais sobre tecnologia e desenvolvimento. Tenho grande interesse em entender como as coisas funcionam por trás dos sistemas e em criar soluções que facilitem o dia a dia das pessoas.  
+Olá! Me chamo *nycolle kimberlyn*, sou estudante de *Analise e desemvolvimento de sistemas* e estou sempre em busca de aprender mais sobre tecnologia e desenvolvimento. Tenho grande interesse em entender como as coisas funcionam por trás dos sistemas e em criar soluções que facilitem o dia a dia das pessoas.  
 
 Atualmente, estou me aprofundando nas bases da programação e aprendendo a aplicar conceitos de **lógica, estrutura de dados e algoritmos**. Gosto de estudar e praticar com pequenos projetos para colocar em prática o que aprendo na faculdade.
 
