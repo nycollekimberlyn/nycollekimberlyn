@@ -1,8 +1,8 @@
 # 👨🏻‍💻 nycolle kimberlyn
 
-**`Estudante de Analise e desemvolvimento de sistemas`**
+**`Estudante de Analise e desenvolvimento de sistemas`**
 
-Olá! Me chamo *nycolle kimberlyn*, sou estudante de *Analise e desemvolvimento de sistemas* e estou sempre em busca de aprender mais sobre tecnologia e desenvolvimento. Tenho grande interesse em entender como as coisas funcionam por trás dos sistemas e em criar soluções que facilitem o dia a dia das pessoas.  
+Olá! Me chamo *nycolle kimberlyn*, sou estudante de *Analise e desenvolvimento de sistemas* e estou sempre em busca de aprender mais sobre tecnologia e desenvolvimento. Tenho grande interesse em entender como as coisas funcionam por trás dos sistemas e em criar soluções que facilitem o dia a dia das pessoas.  
 
 Atualmente, estou me aprofundando nas bases da programação e aprendendo a aplicar conceitos de **lógica, estrutura de dados e algoritmos**. Gosto de estudar e praticar com pequenos projetos para colocar em prática o que aprendo na faculdade.
 
@@ -33,6 +33,14 @@ Atualmente, estou me aprofundando nas bases da programação e aprendendo a apli
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Angular" 
+    title="Angular"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
 />
 <img 
     align="left" 
@@ -85,8 +93,6 @@ Atualmente, estou me aprofundando nas bases da programação e aprendendo a apli
 
 ---
 
-
-
 ### 📘 Sobre Mim
 
-Sou uma pessoa curiosa e gosto de aprender na prática — sempre procuro entender o porquê das coisas funcionarem do jeito que são. Tenho interesse em seguir carreira na área de desenvolvimento de software e, no momento, estou focado em consolidar minhas bases na programação e boas práticas de código.
+Sou uma pessoa curiosa e gosto de aprender na prática — sempre procuro entender o porquê das coisas funcionarem do jeito que são. Tenho interesse em seguir carreira na área de desenvolvimento de software e, no momento, estou focada em consolidar minhas bases na programação e boas práticas de código.
