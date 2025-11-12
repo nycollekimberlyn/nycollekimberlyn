@@ -80,5 +80,4 @@ No momento, estou focada em melhorar meus conhecimentos em lógica de programaç
 
 ### 📘 Sobre Mim
 
-Sou uma pessoa curiosa e gosto de aprender na prática. Tenho interesse em seguir carreira na área de desenvolvimento de software e estou sempre buscando entender como as coisas funcionam por trás dos sistemas.
-Atualmente, estou focada em fortalecer minhas bases em programação e aplicar boas práticas de código nos meus projetos, aprendendo um pouco mais a cada dia.
+Sou uma pessoa curiosa e gosto de aprender na prática. Tenho interesse em desenvolvimento de software e busco entender como as coisas funcionam por trás dos sistemas. No momento, estou aprimorando meus conhecimentos em programação e boas práticas de código, sempre colocando em prática o que aprendo.
