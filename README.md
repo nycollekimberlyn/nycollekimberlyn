@@ -12,7 +12,6 @@ No momento, estou focada em melhorar meus conhecimentos em lógica de programaç
 ### 💻 Linguagens e Tecnologias
 
 
-/>
 <img 
     align="left" 
     alt="Angular" 
