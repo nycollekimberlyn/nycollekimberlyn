@@ -2,7 +2,7 @@
 
 **`Estudante de Analise e desenvolvimento de sistemas`**
 
-Oi! Eu sou a *Nycolle Kimberlyn*, 
+Oi! Eu sou a Nycolle kimberlyn.
 Estudo Análise e Desenvolvimento de Sistemas e gosto muito de aprender sobre tecnologia e desenvolvimento. Tenho curiosidade em entender como tudo funciona por trás dos sistemas e em criar coisas que possam facilitar o dia a dia das pessoas.
 
 No momento, estou focada em melhorar meus conhecimentos em lógica de programação, estrutura de dados e algoritmos. Gosto de aprender praticando, então costumo fazer pequenos projetos pra testar o que aprendo na faculdade e continuar evoluindo como desenvolvedora.
