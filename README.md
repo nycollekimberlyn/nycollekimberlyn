@@ -19,14 +19,8 @@ No momento, estou focada em melhorar meus conhecimentos em lógica de programaç
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" 
-    <img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
 />
+
 <img 
     align="left" 
     alt="C" 
@@ -35,7 +29,7 @@ No momento, estou focada em melhorar meus conhecimentos em lógica de programaç
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" 
 />
-/>
+
 <img 
     align="left" 
     alt="C++" 
@@ -44,6 +38,7 @@ No momento, estou focada em melhorar meus conhecimentos em lógica de programaç
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" 
 />
+
 <img 
     align="left" 
     alt="JavaScript" 
@@ -52,6 +47,7 @@ No momento, estou focada em melhorar meus conhecimentos em lógica de programaç
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
     alt="Git" 
@@ -60,6 +56,7 @@ No momento, estou focada em melhorar meus conhecimentos em lógica de programaç
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" 
 />
+
 <br/>
 <br/>
 
@@ -77,15 +74,12 @@ No momento, estou focada em melhorar meus conhecimentos em lógica de programaç
   />
 
   <img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycollekimberlyn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
+    align="left" 
+    alt="Tecnologias" 
+    height="200" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nycollekimberlyn&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5" 
   />
 </p>
-
----
-
 ### 📘 Sobre Mim
 
 Sou uma pessoa curiosa e gosto de aprender na prática. Tenho interesse em desenvolvimento de software e busco entender como as coisas funcionam por trás dos sistemas. No momento, estou aprimorando meus conhecimentos em programação e boas práticas de código, sempre colocando em prática o que aprendo.
